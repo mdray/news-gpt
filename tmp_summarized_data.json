@@ -1,0 +1,48 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Prosser, Contributor, \n David Prosser, Contributor\n https://www.forbes.com/sites/davidprosser/",
+            "title": "Unlocking Lending With Credora’s Privacy Preserving Credit Scoring",
+            "description": "Credora has raised $6 million of new finance as demand for private credit continues to grow",
+            "url": "https://www.forbes.com/sites/davidprosser/2023/04/25/unlocking-lending-with-credoras-privacy-preserving-credit-scoring/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644786ca26b1a43633f33129/0x0.jpg?format=jpg&crop=675,380,x0,y86,safe&width=1200",
+            "publishedAt": "2023-04-25T11:00:40Z",
+            "content": "Darshan Vaidya, CEO of Credora\r\ncredora\r\nHow do would-be borrowers share sensitive data with potential lenders so they can secure the credit they need for business growth? US based Credora, which is … [+4609 chars]",
+            "summary": "1. Credora's privacy-preserving credit scoring system allows for more accurate evaluations of potential borrowers without requiring sensitive personal information.\n2. This system can help lenders extend credit to previously underserved populations who may not have traditional credit history.\n3. The technology behind Credora's credit scoring system, including machine learning algorithms and natural language processing, has the potential to revolutionize the lending industry."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Expert Panel®, Forbes Councils Member, \n Expert Panel®, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/expertpanel/",
+            "title": "How Leaders Can Cut Supply Chain Costs And Improve Performance",
+            "description": "Leaders that recognize the importance of data in decision making minimize risk and increases the likelihood of business success.",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/how-leaders-can-cut-supply-chain-costs-and-improve-performance/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644036a0ff89147224eb47a2/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-25T12:15:00Z",
+            "content": "getty\r\nEfficient supply chain management is a crucial element of business success, impacting everything from customer satisfaction to profitability. With the global supply chain becoming increasingly… [+7367 chars]",
+            "summary": "1. Leaders are urged to scrutinize their supply chain to cut costs and improve performance.\n2. One key to reducing supply chain costs is to minimize inventory.\n3. Collaboration with suppliers and outsourcing where appropriate can also improve performance."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Committee of 200, Contributor, \n Committee of 200, Contributor\n https://www.forbes.com/sites/committeeof200/",
+            "title": "Can AI Help To Alleviate Supply Chain Pains?",
+            "description": "Retailers are dealing with overwhelming amounts of unusable overstock. AI-powered tools provide data insight to enable retailers to maintain an optimal balance of inventory, analyze consumer trends, and make real-time decisions.",
+            "url": "https://www.forbes.com/sites/committeeof200/2023/04/25/can-ai-help-to-alleviate-supply-chain-pains/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6448154023c83fda0df33129/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-25T18:05:17Z",
+            "content": "By Inna Kuznetsova\r\nC200 member Inna Kuznetsova is the CEO of ToolsGroup, whose AI-powered solutions enable companies to navigate supply chain uncertainty. Inna previously served as CEO of 1010data a… [+5916 chars]",
+            "summary": "1. AI can alleviate supply chain pains by automating tasks such as predictive maintenance, demand forecasting, and inventory management.\n\n2. AI can also help companies react quickly to sudden changes in demand or supply.\n\n3. However, companies must invest in the right AI infrastructure and integrate it with their existing systems to see the benefits of AI in supply chain management."
+        }
+    ]
+}
