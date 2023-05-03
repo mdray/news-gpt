@@ -14,6 +14,7 @@ import json
 import openai
 from base64 import b64encode
 from datetime import date, timedelta
+import time
 
 # Load environment variables
 load_dotenv()
@@ -23,7 +24,7 @@ GIT = os.getenv('GIT')
 
 # Use NewsAPI to get articles
 #set variables
-q = 'data analytics'
+q = 'data OR data analytics OR big data'
 domains = 'forbes.com, venturebeat.com, searchbusinessanalytics.techtarget.com, www.informationweek.com/big-data-analytics.asp, www.zdnet.com/topic/big-data-analytics, www.datasciencecentral.com, www.kdnuggets.com, www.analyticsinsight.net, www.datanami.com, Bloomberg' # comma seperated
 day = date.today()
 date_from = day - timedelta(days=1)
@@ -38,7 +39,7 @@ page = 1
 api_url = f"https://newsapi.org/v2/everything?q={q}&apiKey={API}&domains={domains}&from={date_from}&to={date_to}&language={language}&sortBy={sortBy}&pageSize={pageSize}&page={page}"
 response = requests.get(api_url)
 data = response.json()
-print(data)
+# print(data)
 
 #write news to tmp file
 with open('tmp_data.json', 'w', encoding='utf-8') as f:
@@ -59,8 +60,9 @@ for i in data['articles']:
     # append summary(completion) to data
     summary = completion.choices[0].message.content
     i['summary'] = summary 
-
+    
     # print(completion.choices[0].message.content)
+    time.sleep(30)
 
 # write summarized output to file
 with open('tmp_summarized_data.json', 'w', encoding='utf-8') as f:

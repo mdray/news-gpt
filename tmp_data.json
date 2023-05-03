@@ -1,71 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 31,
+    "totalResults": 62,
     "articles": [
         {
             "source": {
                 "id": null,
                 "name": "VentureBeat"
             },
-            "author": "Shubham Sharma",
-            "title": "How Prophecy 3.0 enables businesses to build data pipelines without writing SQL code",
-            "description": "Prophecy today launched a new version of its core platform to provide enterprises with low-code SQL capabilities for building data pipelines.",
-            "url": "https://venturebeat.com/data-infrastructure/how-prophecy-3-0-enables-businesses-to-build-data-pipelines-without-writing-sql-code/",
-            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/04/OIG-1-e1682521927193.jpeg?w=1200&strip=all",
-            "publishedAt": "2023-04-26T16:24:49Z",
-            "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nCalifornia-based data engineering company Prophecy has a… [+1174 chars]"
+            "author": "Kirstie McDermott",
+            "title": "3 great companies for data science jobs",
+            "description": "If you’re working in data science, you’ve made a smart career choice. And if you don’t yet work in the field, what are you waiting for?",
+            "url": "https://venturebeat.com/data-infrastructure/3-great-companies-for-data-science-jobs/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164-e1667519889873.jpg?w=1200&strip=all",
+            "publishedAt": "2023-05-02T13:20:00Z",
+            "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nIf youre working in data science, congratulations youve … [+1349 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Luis Marinelli, Forbes Councils Member, \n Luis Marinelli, Forbes Councils Member\n https://www.forbes.com/sites/forbesfinancecouncil/people/luismarinelli/",
-            "title": "Managing Credit Risk For Fintechs: Innovative Strategies For A Data-Driven Future",
-            "description": "To manage credit risk effectively, fintech lenders must adopt unique and insightful strategies that leverage data, analytics, machine learning and product design.",
-            "url": "https://www.forbes.com/sites/forbesfinancecouncil/2023/04/26/managing-credit-risk-for-fintechs-innovative-strategies-for-a-data-driven-future/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f6b8b10fc4839cedc3fe5ba/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-04-26T11:00:00Z",
-            "content": "Luis Marinelli is a FinTech Entrepreneur. He is Co-founder at Vana. He Posts about Entrepreneurship, Finance &amp; Startups. \r\ngetty\r\nAs a powerful force in the financial landscape, fintechs offer in… [+6628 chars]"
+            "author": "Gary Drenik, Contributor, \n Gary Drenik, Contributor\n https://www.forbes.com/sites/garydrenik/",
+            "title": "Overwhelmed With High Volumes Of Customer Data, Brands Leverage New Strategies To Organize Information And Power Personalized Experiences",
+            "description": "In today's business world, companies are facing an overwhelming amount of customer data. To make sense of this information and turn it into actionable insights, brands are turning to AI and data tools that unify customer data in real-time.",
+            "url": "https://www.forbes.com/sites/garydrenik/2023/05/02/overwhelmed-with-high-volumes-of-customer-data-brands-leverage-new-strategies-to-organize-information-and-power-personalized-experiences/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644c562746d4638fb9ad4710/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-02T14:00:00Z",
+            "content": "Customer Data\r\nAdobeStock_238240773\r\nIn today's business world, companies are facing an overwhelming amount of customer data. To make sense of this information and turn it into actionable insights, b… [+4956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Louis Columbus",
+            "title": "Getting cyber-resilience right in a zero-trust world starts at the endpoint",
+            "description": "Absolute has released its 2023 Resilience Index, showing what's driving the trend that balances security and cyber-resilience.",
+            "url": "https://venturebeat.com/security/getting-cyber-resilience-right-in-a-zero-trust-world-starts-at-the-endpoint/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/05/VB_cybersecurity_zero-trust_woman_bing_1200x800_050123.jpg?w=1200&strip=all",
+            "publishedAt": "2023-05-02T14:10:00Z",
+            "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nWith the White House announcing a new national cybersecu… [+1696 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Nirav Patel, Forbes Councils Member, \n Nirav Patel, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/niravpatel/",
-            "title": "The 5 Digital Supply Chain Challenges Every Business Should Plan For Before Their Next Fiscal Year",
-            "description": "Ongoing supply chain challenges can be resolved by digital supply chain solutions that ensure visibility, information exchange, effective data aggregation, collaboration, analytics, automation, innovative practices and step-change improvements.",
-            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/04/26/the-5-digital-supply-chain-challenges-every-business-should-plan-for-before-their-next-fiscal-year/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61950180a260c12d22db736c/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-04-26T12:15:00Z",
-            "content": "Nirav Patel is President and CEO, Bristlecone, leading the way in supply chain transformation and digital resilience.\r\ngetty\r\nSupply chains are complicated, typically consisting of a number of comple… [+6654 chars]"
+            "author": "Mike Quinn, Forbes Councils Member, \n Mike Quinn, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/people/mikequinn1/",
+            "title": "4 Ways Leaders Should Reevaluate Their Cybersecurity's Focus",
+            "description": "In this article, I will outline four ways leaders can better protect their raw data.",
+            "url": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/02/4-ways-leaders-should-reevaluate-their-cybersecuritys-focus/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f738e134c7d1497b6a92fd7/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-02T11:00:00Z",
+            "content": "Chief Executive Officer at Active Cypher.\r\ngetty\r\nDespite business leaders' growing awareness of cybercrimeand the rapid adaptations offered by new cybersecurity architecturescriminals continue to su… [+7087 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "David Prosser, Contributor, \n David Prosser, Contributor\n https://www.forbes.com/sites/davidprosser/",
-            "title": "Unlocking Lending With Credora’s Privacy Preserving Credit Scoring",
-            "description": "Credora has raised $6 million of new finance as demand for private credit continues to grow",
-            "url": "https://www.forbes.com/sites/davidprosser/2023/04/25/unlocking-lending-with-credoras-privacy-preserving-credit-scoring/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644786ca26b1a43633f33129/0x0.jpg?format=jpg&crop=675,380,x0,y86,safe&width=1200",
-            "publishedAt": "2023-04-25T11:00:40Z",
-            "content": "Darshan Vaidya, CEO of Credora\r\ncredora\r\nHow do would-be borrowers share sensitive data with potential lenders so they can secure the credit they need for business growth? US based Credora, which is … [+4609 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Expert Panel®, Forbes Councils Member, \n Expert Panel®, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/expertpanel/",
-            "title": "How Leaders Can Cut Supply Chain Costs And Improve Performance",
-            "description": "Leaders that recognize the importance of data in decision making minimize risk and increases the likelihood of business success.",
-            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/how-leaders-can-cut-supply-chain-costs-and-improve-performance/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644036a0ff89147224eb47a2/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-04-25T12:15:00Z",
-            "content": "getty\r\nEfficient supply chain management is a crucial element of business success, impacting everything from customer satisfaction to profitability. With the global supply chain becoming increasingly… [+7367 chars]"
+            "author": "Constantine Yurevich, Forbes Councils Member, \n Constantine Yurevich, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/constantineyurevich/",
+            "title": "How Can Advertisers Navigate Further Without Cookies?",
+            "description": "The cookieless world is an environment where users are in control of their data and must give explicit consent for its use. Also, tracking restrictions are applied globally to enable privacy-centric browsing experiences for every user.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-can-advertisers-navigate-further-without-cookies/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644fcfb703c7b3c78ceb47e7/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-02T10:30:00Z",
+            "content": "Founder and CEO of SegmentStream, a Conversion Modelling Platform that solves marketing analytics in a cookieless world. \r\ngetty\r\nThe advertisers life is changing to be harder. With all current track… [+6323 chars]"
         }
     ]
 }

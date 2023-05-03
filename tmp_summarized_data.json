@@ -1,48 +1,76 @@
 {
     "status": "ok",
-    "totalResults": 17,
+    "totalResults": 62,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Forbes"
+                "name": "VentureBeat"
             },
-            "author": "David Prosser, Contributor, \n David Prosser, Contributor\n https://www.forbes.com/sites/davidprosser/",
-            "title": "Unlocking Lending With Credora’s Privacy Preserving Credit Scoring",
-            "description": "Credora has raised $6 million of new finance as demand for private credit continues to grow",
-            "url": "https://www.forbes.com/sites/davidprosser/2023/04/25/unlocking-lending-with-credoras-privacy-preserving-credit-scoring/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644786ca26b1a43633f33129/0x0.jpg?format=jpg&crop=675,380,x0,y86,safe&width=1200",
-            "publishedAt": "2023-04-25T11:00:40Z",
-            "content": "Darshan Vaidya, CEO of Credora\r\ncredora\r\nHow do would-be borrowers share sensitive data with potential lenders so they can secure the credit they need for business growth? US based Credora, which is … [+4609 chars]",
-            "summary": "1. Credora is a fintech firm that offers privacy-preserving credit scoring by using data encryption.\n2. By utilizing encrypted data, Credora provides unique insights into the creditworthiness of individuals without putting their personal data at risk.\n3. The fintech firm is poised to revolutionize the lending industry by making it more transparent and personalized."
+            "author": "Kirstie McDermott",
+            "title": "3 great companies for data science jobs",
+            "description": "If you’re working in data science, you’ve made a smart career choice. And if you don’t yet work in the field, what are you waiting for?",
+            "url": "https://venturebeat.com/data-infrastructure/3-great-companies-for-data-science-jobs/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164-e1667519889873.jpg?w=1200&strip=all",
+            "publishedAt": "2023-05-02T13:20:00Z",
+            "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nIf youre working in data science, congratulations youve … [+1349 chars]",
+            "summary": "1. Data science is a rapidly growing field with high demand for skilled professionals.\n2. Companies like IBM, Accenture, and Capgemini offer great opportunities for data scientists.\n3. Candidates with expertise in machine learning, Python, and SQL have a particularly competitive edge in the job market."
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Expert Panel®, Forbes Councils Member, \n Expert Panel®, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/expertpanel/",
-            "title": "How Leaders Can Cut Supply Chain Costs And Improve Performance",
-            "description": "Leaders that recognize the importance of data in decision making minimize risk and increases the likelihood of business success.",
-            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/25/how-leaders-can-cut-supply-chain-costs-and-improve-performance/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644036a0ff89147224eb47a2/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-04-25T12:15:00Z",
-            "content": "getty\r\nEfficient supply chain management is a crucial element of business success, impacting everything from customer satisfaction to profitability. With the global supply chain becoming increasingly… [+7367 chars]",
-            "summary": "1. Organisations can improve their supply chain performance and reduce associated costs by streamlining their supply chain networks. \n\n2. They should also retain a dynamic communication pathway, invest in modern tech, and filter their data to pinpoint problems and resolutions. \n\n3. Finally, leaders should aim to better manage their relationships with partners, vendors and their workforce."
+            "author": "Gary Drenik, Contributor, \n Gary Drenik, Contributor\n https://www.forbes.com/sites/garydrenik/",
+            "title": "Overwhelmed With High Volumes Of Customer Data, Brands Leverage New Strategies To Organize Information And Power Personalized Experiences",
+            "description": "In today's business world, companies are facing an overwhelming amount of customer data. To make sense of this information and turn it into actionable insights, brands are turning to AI and data tools that unify customer data in real-time.",
+            "url": "https://www.forbes.com/sites/garydrenik/2023/05/02/overwhelmed-with-high-volumes-of-customer-data-brands-leverage-new-strategies-to-organize-information-and-power-personalized-experiences/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644c562746d4638fb9ad4710/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-02T14:00:00Z",
+            "content": "Customer Data\r\nAdobeStock_238240773\r\nIn today's business world, companies are facing an overwhelming amount of customer data. To make sense of this information and turn it into actionable insights, b… [+4956 chars]",
+            "summary": "1. Brands collect massive amounts of customer data but struggle to organize and leverage it effectively.\n2. New strategies such as customer data platforms (CDPs) and artificial intelligence (AI) assist in organizing and analyzing data.\n3. The result is better personalization of customer experiences and increased customer loyalty."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Louis Columbus",
+            "title": "Getting cyber-resilience right in a zero-trust world starts at the endpoint",
+            "description": "Absolute has released its 2023 Resilience Index, showing what's driving the trend that balances security and cyber-resilience.",
+            "url": "https://venturebeat.com/security/getting-cyber-resilience-right-in-a-zero-trust-world-starts-at-the-endpoint/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/05/VB_cybersecurity_zero-trust_woman_bing_1200x800_050123.jpg?w=1200&strip=all",
+            "publishedAt": "2023-05-02T14:10:00Z",
+            "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nWith the White House announcing a new national cybersecu… [+1696 chars]",
+            "summary": "1. Cyber resilience is critical in a zero-trust world, which means that endpoints such as laptops and mobile devices must be secured.\n2. Endpoint security should be designed to protect against both known and unknown threats, such as zero-day attacks.\n3. Organizations should implement a layered approach that integrates endpoint protection with other security measures, such as network segmentation and identity and access management."
         },
         {
             "source": {
                 "id": null,
                 "name": "Forbes"
             },
-            "author": "Committee of 200, Contributor, \n Committee of 200, Contributor\n https://www.forbes.com/sites/committeeof200/",
-            "title": "Can AI Help To Alleviate Supply Chain Pains?",
-            "description": "Retailers are dealing with overwhelming amounts of unusable overstock. AI-powered tools provide data insight to enable retailers to maintain an optimal balance of inventory, analyze consumer trends, and make real-time decisions.",
-            "url": "https://www.forbes.com/sites/committeeof200/2023/04/25/can-ai-help-to-alleviate-supply-chain-pains/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6448154023c83fda0df33129/0x0.jpg?format=jpg&width=1200",
-            "publishedAt": "2023-04-25T18:05:17Z",
-            "content": "By Inna Kuznetsova\r\nC200 member Inna Kuznetsova is the CEO of ToolsGroup, whose AI-powered solutions enable companies to navigate supply chain uncertainty. Inna previously served as CEO of 1010data a… [+5916 chars]",
-            "summary": "1. AI can help alleviate supply chain challenges, such as the impact of the pandemic and the increasing demand for e-commerce.\n2. AI-powered technologies can improve inventory management, increase efficiency, and reduce costs.\n3. Companies must invest in and integrate AI into their supply chain processes to stay competitive and meet customer demands."
+            "author": "Mike Quinn, Forbes Councils Member, \n Mike Quinn, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/people/mikequinn1/",
+            "title": "4 Ways Leaders Should Reevaluate Their Cybersecurity's Focus",
+            "description": "In this article, I will outline four ways leaders can better protect their raw data.",
+            "url": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/02/4-ways-leaders-should-reevaluate-their-cybersecuritys-focus/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5f738e134c7d1497b6a92fd7/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-02T11:00:00Z",
+            "content": "Chief Executive Officer at Active Cypher.\r\ngetty\r\nDespite business leaders' growing awareness of cybercrimeand the rapid adaptations offered by new cybersecurity architecturescriminals continue to su… [+7087 chars]",
+            "summary": "1. Leaders should re-evaluate their cybersecurity focus to stay ahead of emerging threats.\n2. Cybersecurity should be integrated into all business functions to ensure comprehensive protection.\n3. Collaboration and communication between IT and non-IT staff is essential for effective cybersecurity measures."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Constantine Yurevich, Forbes Councils Member, \n Constantine Yurevich, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/constantineyurevich/",
+            "title": "How Can Advertisers Navigate Further Without Cookies?",
+            "description": "The cookieless world is an environment where users are in control of their data and must give explicit consent for its use. Also, tracking restrictions are applied globally to enable privacy-centric browsing experiences for every user.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/05/02/how-can-advertisers-navigate-further-without-cookies/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/644fcfb703c7b3c78ceb47e7/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-02T10:30:00Z",
+            "content": "Founder and CEO of SegmentStream, a Conversion Modelling Platform that solves marketing analytics in a cookieless world. \r\ngetty\r\nThe advertisers life is changing to be harder. With all current track… [+6323 chars]",
+            "summary": "1. Advertisers must find new ways to reach and engage with consumers without relying on cookies.\n2. Strategies such as targeted advertising based on first-party data and contextual advertising are key.\n3. Collaboration and cooperation among industry players can help to develop new solutions for effective advertising post-cookie."
         }
     ]
 }
